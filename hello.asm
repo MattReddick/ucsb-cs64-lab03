@@ -6,7 +6,7 @@
 	# TODO: Write your string definitions here
 	request: .asciiz "Enter an integer:\n"
 	hello: .asciiz "Hello Pandemic World!"
-	result: .asciiz "\nThe magic numbber is "
+	result: .asciiz "\nThe magic number is "
 	exclamation: .asciiz "!!!" 
 
 #Text Area (i.e. instructions)
